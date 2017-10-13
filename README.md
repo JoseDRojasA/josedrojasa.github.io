@@ -1,2 +1,3 @@
-# josedrojasa.github.io
-Personal Web Page
+# Hi
+
+This is my personal web page repository :D
