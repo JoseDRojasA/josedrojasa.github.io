@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="340"
+   height="360"
+   viewBox="0 0 36.991029 39.168"
+   preserveAspectRatio="xMidYMid"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Angular_Logo.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.34"
+     inkscape:cx="1165.9068"
+     inkscape:cy="1250"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 1.3939993,7.8649887 17.1767197,-6.12001 17.63928,6.01119 -2.8561,22.7256203 -14.78318,8.18723 -14.5519097,-8.07841 -2.62481,-22.7256203 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#e23237" />
+  <path
+     d="m 36.209999,7.7561687 -17.63928,-6.01119 0,36.9240403 14.78318,-8.17358 2.8561,-22.7392703 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#b52e31" />
+  <path
+     d="M 18.597889,6.0562187 7.8947993,29.869859 l 3.9983097,-0.068 2.14887,-5.3721 9.60155,0 2.35284,5.44009 3.82151,0.068 -11.21999,-23.8816303 z m 0.0273,7.6296403 3.61753,7.56151 -6.80007,0 3.18254,-7.56151 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+</svg>
